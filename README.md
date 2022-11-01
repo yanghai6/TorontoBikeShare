@@ -1,5 +1,4 @@
 # Toronto Bikeshare Ridership
-assignment-1-yanghai6 created by GitHub Classroom
 
 * 'Report.ipynb' is the report of the analysis.
 
